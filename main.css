@@ -1,0 +1,79 @@
+body{
+    background-image: url(https://images.pexels.com/photos/1496372/pexels-photo-1496372.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+
+}
+.card-block{
+    display: flex;
+   justify-content: center;
+   margin-top: 150px;
+}
+
+.card-container{
+    background-color:#FF4F52;
+    width: 263px;
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin: 20px;
+    padding: 15px;
+    box-sizing: border-box;
+    
+  
+}
+
+.card-container2{
+    background-color: #262D33;
+    width: 263px;
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin: 20px;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+.card-container3{
+    background-color: #3DC47E;
+    width: 263px;
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin: 20px;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+.card-title{
+    color: #fff;
+    font-size: smaller;
+}
+
+h1{
+    font-size: medium;
+}
+
+.card-text{
+    color: #fff;
+    font-size: large;
+
+}
+
+.card-title2{
+    color: #fff;
+}
+
+.card-text2{
+    color: #fff;
+}
+
+.card-title3{
+    color: #fff;
+}
+
+.card-text3{
+    color: #fff;
+}
